@@ -1,0 +1,16 @@
+{
+  "name": "td3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "body-parser": "^1.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Loïs Boubault"
+}
