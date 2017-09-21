@@ -1,4 +1,4 @@
-#Little Memory Game
+# Little Memory Game
 
 This little memory game was created during my JS course + my free time.
 
